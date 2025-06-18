@@ -4,10 +4,6 @@ A modern, responsive Nike brand page built with React, Vite, and Tailwind CSS.
 
 ![Nike Brand Page Preview](./src/readmeImage.PNG)
 
-## 🌟 Live Demo
-
-**[View Live Demo](https://nike-brand-page.vercel.app/)**
-
 ## ✨ Features
 
 - **Responsive Design** - Works on all devices
