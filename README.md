@@ -64,6 +64,6 @@ MIT License
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Abye]**
 
 _This is a demo project and is not affiliated with Nike, Inc._
