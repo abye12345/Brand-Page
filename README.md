@@ -1,4 +1,4 @@
-# ��‍♂️ Nike Brand Page
+# 🏃‍♂️ Nike Brand Page
 
 A modern, responsive Nike brand page built with React, Vite, and Tailwind CSS.
 
@@ -12,6 +12,10 @@ A modern, responsive Nike brand page built with React, Vite, and Tailwind CSS.
 - **Contact Form** - Functional form with validation
 - **Mobile Menu** - Collapsible hamburger menu
 - **Modern UI** - Clean design with Nike's signature styling
+
+## 🌐 Live Demo
+
+Check out the live version: **[Nike Brand Page](https://abye12345.github.io/Brand-Page/)**
 
 ## 🚀 Quick Start
 
